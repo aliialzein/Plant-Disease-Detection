@@ -5,7 +5,6 @@ This project detects plant diseases from leaf images using a fine-tuned MobileNe
 ---
 
 ## 📸 Demo
-Try it live: [Streamlit Cloud Deployment Link]()
 
 Upload a photo of a leaf and get:
 - The predicted disease class
