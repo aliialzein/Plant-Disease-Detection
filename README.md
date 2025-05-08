@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Detection with Grad-CAM
 
-This project detects plant diseases from leaf images using a fine-tuned MobileNetV2 deep learning model. It features an interactive web app built with Streamlit and provides Grad-CAM visualizations to highlight which parts of the leaf influenced the model's decision.
+This project detects plant diseases from leaf images using a fine-tuned MobileNetV2 deep learning model and it features an interactive web app built with Streamlit.
 
 ---
 
@@ -16,7 +16,6 @@ Upload a photo of a leaf and get:
 
 - ✅ Image classification using MobileNetV2
 - ✅ Real-time predictions in a web app
-- ✅ Grad-CAM visualization for model interpretability
 - ✅ Lightweight and efficient for deployment
 
 ---
